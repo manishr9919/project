@@ -1,0 +1,27 @@
+.parent{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border: 1px solid red;
+    width: 40%;
+    height: 300px;border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+
+
+    margin: auto;
+}
+form{
+    margin-top: 50%;
+    
+    background-color: tan;
+    text-align: center;
+}
+input{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+}
+form input:first-child{
+    margin-left: 50px;
+}
+#name{
+    margin-left: 40px;
+}
